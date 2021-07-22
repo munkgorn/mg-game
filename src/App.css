@@ -42,3 +42,7 @@ code:before,
 code:after {
   content: '\`';
 }
+
+.ant-layout,.ant-layout-footer {
+  background-color: #fff;
+}
